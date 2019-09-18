@@ -27,7 +27,7 @@
 
 }(function($) {
     'use strict';
-    var Slick = window.Slick || {};
+    var Slick = {};
 
     Slick = (function() {
 
